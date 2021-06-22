@@ -1,2 +1,7 @@
 LOGO
 style.css
+robie
+w 
+pliku
+kilka
+zmian
