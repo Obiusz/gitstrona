@@ -1,5 +1,13 @@
 LOGO
 style.css
+<<<<<<< HEAD
 
 niedokonczony spis tresci
 - praca równoległa
+=======
+robie
+w 
+pliku
+kilka
+zmian
+>>>>>>> nowy_naglowek
