@@ -1,2 +1,5 @@
 LOGO
 style.css
+
+niedokonczony spis tresci
+- praca równoległa
