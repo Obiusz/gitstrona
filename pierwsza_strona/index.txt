@@ -3,3 +3,6 @@ style.css
 
 niedokonczony spis tresci
 - praca równoległa
+	- Dodawanie zmian
+	- Przywracanie wersji
+	- Edycja historii
