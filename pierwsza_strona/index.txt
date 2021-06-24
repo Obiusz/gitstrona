@@ -4,6 +4,9 @@ style.css
 
 niedokonczony spis tresci
 - praca równoległa
+	- Pierwszy Commit
+	- Poprawiamy Commit
+	- Praca z indeksem
 =======
 robie
 w 
