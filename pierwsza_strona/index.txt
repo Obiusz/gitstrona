@@ -15,6 +15,11 @@ niedokonczony spis tresci
 	- Praca z indeksem
 	- Przywracanie wersji
 	- Edycja historii
+- jakieś kolejne ważne zmiany
+	- elo
+	- witka
+	- siemka
+	- joł
 =======
 robie
 w 
