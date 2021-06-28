@@ -3,6 +3,10 @@ style.css
 <<<<<<< HEAD
 
 niedokonczony spis tresci
+- podstawy GIT
+	- czym jest GIT?
+	- instalacja
+	- konfiguracja repozytorium
 - praca równoległa
 
 	- Dodawanie zmian
